@@ -21,7 +21,7 @@ This calculator can determine the following:
 ## Installation
 
 ### Clone the repository (if applicable)
-git clone [https://github.com/e-vader/Mortgage-Calculator]
+git clone [https://github.com/darkwebjedi/Mortgage-Calculator]
 ``` cd mortgage-calculator ```
 
 Or install dependencies (if needed, e.g., for Python/JS) 
